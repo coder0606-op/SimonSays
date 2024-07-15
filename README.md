@@ -1,2 +1,2 @@
 # SimonSays
-This is Silly Game
+This is a Silly Game
